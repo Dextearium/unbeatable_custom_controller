@@ -628,7 +628,7 @@
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
-      "hop_over_size_choice": 0,
+      "hop_over_size_choice": 3,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
@@ -661,7 +661,7 @@
         "uuid": "56740881-356f-4088-82c8-bd52ff0fe80e"
       }
     ],
-    "used_designators": "JP1,H1-4,SW1-12,C1-18,R1-7,J1-4,U1-4,Y1,#PWR4-5,#PWR10,#PWR19-39",
+    "used_designators": "JP1,R1-7,H1-4,SW1-12,D1-24,C1-28,J1-4,U1-4,Y1,#PWR1,#PWR3-6,#PWR9-13,#PWR15-16,#PWR18-73",
     "variants": []
   },
   "sheets": [
@@ -672,6 +672,10 @@
     [
       "5ca44c3c-b88e-49db-8b9b-a1c7eb7faa11",
       "RP2040"
+    ],
+    [
+      "e5ac9387-7100-4664-bc48-3a7e971b4167",
+      "Switch_Matrix"
     ]
   ],
   "text_variables": {},

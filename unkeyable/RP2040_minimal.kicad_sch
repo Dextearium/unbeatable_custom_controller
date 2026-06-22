@@ -5067,6 +5067,391 @@
 		)
 		(uuid "f9e191e0-ff91-4762-9d1e-8c449a5aa8ea")
 	)
+	(hierarchical_label "GPIO12"
+		(shape bidirectional)
+		(at 245.11 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "015ad2a4-f638-49ac-8813-d3feb4be4a7e")
+	)
+	(hierarchical_label "GPIO3"
+		(shape bidirectional)
+		(at 245.11 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "04256f2c-0f80-49d2-bccc-aaa39794bf02")
+	)
+	(hierarchical_label "GPIO9"
+		(shape bidirectional)
+		(at 245.11 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "061ad840-5339-41de-8a8e-d7cb402e3e4f")
+	)
+	(hierarchical_label "GPIO26_ADC0"
+		(shape bidirectional)
+		(at 245.11 180.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0c277032-c3ff-4bfd-abae-9d700a83fba3")
+	)
+	(hierarchical_label "GPIO11"
+		(shape bidirectional)
+		(at 245.11 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0ec3dff5-d07c-465d-8e27-c4d7a189dfb1")
+	)
+	(hierarchical_label "GPIO20"
+		(shape bidirectional)
+		(at 245.11 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0f358e0d-a821-4875-a68f-3336ea0f44eb")
+	)
+	(hierarchical_label "GPIO6"
+		(shape bidirectional)
+		(at 245.11 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1e11b97b-38ac-463f-a23e-0128f65a050e")
+	)
+	(hierarchical_label "GPIO1"
+		(shape bidirectional)
+		(at 245.11 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2cd67aa7-5cc9-4b82-92d8-ff753049c03b")
+	)
+	(hierarchical_label "GPIO0"
+		(shape bidirectional)
+		(at 245.11 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2f84c98c-c359-4e3f-b825-bd9cb532eb10")
+	)
+	(hierarchical_label "GPIO23"
+		(shape bidirectional)
+		(at 245.11 170.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2fb45c42-77f0-4fa7-8a50-698dd0be7a61")
+	)
+	(hierarchical_label "GPIO13"
+		(shape bidirectional)
+		(at 245.11 144.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "366feb42-c702-4ed5-aa77-381ed5e9c780")
+	)
+	(hierarchical_label "GPIO28_ADC2"
+		(shape bidirectional)
+		(at 245.11 185.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3dcb8fc2-ed0e-448e-a57d-ef2bcc92ad1e")
+	)
+	(hierarchical_label "GPIO8"
+		(shape bidirectional)
+		(at 245.11 132.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3f88658c-3b7a-4fba-b1d7-b9f7b8b77bfc")
+	)
+	(hierarchical_label "GPIO10"
+		(shape bidirectional)
+		(at 245.11 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c9f514e-d1ef-47ff-8fa2-fd44629444b1")
+	)
+	(hierarchical_label "SWCLK"
+		(shape bidirectional)
+		(at 152.4 176.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "62475985-ba29-449c-82cf-15ee0fcd86d8")
+	)
+	(hierarchical_label "GPIO18"
+		(shape bidirectional)
+		(at 245.11 157.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7b9d59b2-b853-4d8e-91b2-3fea6f639b14")
+	)
+	(hierarchical_label "GPIO14"
+		(shape bidirectional)
+		(at 245.11 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7c4114e2-1441-4b93-81d2-da3e0a5d092f")
+	)
+	(hierarchical_label "GPIO2"
+		(shape bidirectional)
+		(at 245.11 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7d5e5177-21c1-45ab-9706-f7429830d65a")
+	)
+	(hierarchical_label "GPIO16"
+		(shape bidirectional)
+		(at 245.11 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7eb89c1b-e6ea-472b-b092-d9d3383571e7")
+	)
+	(hierarchical_label "GPIO5"
+		(shape bidirectional)
+		(at 245.11 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8249733d-11dd-45df-858e-f82c1b46f8c3")
+	)
+	(hierarchical_label "GPIO27_ADC1"
+		(shape bidirectional)
+		(at 245.11 182.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9d142f71-ba25-498e-85fe-d1c67f7b408f")
+	)
+	(hierarchical_label "GPIO7"
+		(shape bidirectional)
+		(at 245.11 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9f1bc016-09e1-4817-bb18-a191d6b3e2af")
+	)
+	(hierarchical_label "USB_D-"
+		(shape bidirectional)
+		(at 262.89 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a0b567c8-0e27-4281-a602-8aaa567ad627")
+	)
+	(hierarchical_label "SWD"
+		(shape bidirectional)
+		(at 152.4 179.07 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aa2606f1-9a9e-4e43-b7a9-dc507f435161")
+	)
+	(hierarchical_label "GPIO19"
+		(shape bidirectional)
+		(at 245.11 160.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b01f2776-2bbb-4739-8f69-42512302443c")
+	)
+	(hierarchical_label "RUN"
+		(shape bidirectional)
+		(at 152.4 165.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b0707e02-eca9-4bbf-b3dd-71b099fdb026")
+	)
+	(hierarchical_label "GPIO25"
+		(shape bidirectional)
+		(at 245.11 175.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b181aa48-5bf8-430e-8baf-00a93035dd97")
+	)
+	(hierarchical_label "GPIO15"
+		(shape bidirectional)
+		(at 245.11 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b5a9a77b-9d8b-4412-8b0a-e3290bb3378f")
+	)
+	(hierarchical_label "GPIO21"
+		(shape bidirectional)
+		(at 245.11 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "be0af89a-aaf9-4e14-aacf-5ba7cef7be03")
+	)
+	(hierarchical_label "USB_D+"
+		(shape bidirectional)
+		(at 262.89 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ccad0706-bd41-4664-bf6c-19d210c72c48")
+	)
+	(hierarchical_label "GPIO24"
+		(shape bidirectional)
+		(at 245.11 172.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d862211b-03e4-4c85-873e-f242aa411bd7")
+	)
+	(hierarchical_label "GPIO17"
+		(shape bidirectional)
+		(at 245.11 154.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d913bb03-c5d8-4b3c-a5b3-0e4d2dbc76a3")
+	)
+	(hierarchical_label "GPIO4"
+		(shape bidirectional)
+		(at 245.11 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "db71cd28-8aa6-49cf-a873-a995d72ac333")
+	)
+	(hierarchical_label "GPIO22"
+		(shape bidirectional)
+		(at 245.11 167.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e57bb7e3-af0c-4e99-8329-fdd1631a756c")
+	)
+	(hierarchical_label "GPIO29_ADC3"
+		(shape bidirectional)
+		(at 245.11 187.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fc1b1a69-ee2f-4a13-9064-0d81d417f7ab")
+	)
 	(symbol
 		(lib_id "MCU_RaspberryPi_RP2040:RP2040")
 		(at 198.12 144.78 0)
