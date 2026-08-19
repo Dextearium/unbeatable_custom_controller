@@ -703,7 +703,11 @@
       }
     ],
     "used_designators": "JP1,R1-7,H1-4,SW1-17,D1-29,C1-28,J1-4,U1-4,Y1,#PWR1-73",
-    "variants": []
+    "variants": [
+      {
+        "name": "Adafruit KB2040"
+      }
+    ]
   },
   "sheets": [
     [
