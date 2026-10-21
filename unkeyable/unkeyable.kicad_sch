@@ -135,6 +135,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 27.94) (xy 81.28 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b90e824-ce17-4b9a-814b-6c67e11a7ff5")
+	)
+	(wire
+		(pts
 			(xy 135.89 71.12) (xy 135.89 27.94)
 		)
 		(stroke
@@ -192,6 +202,16 @@
 			(type default)
 		)
 		(uuid "f8d00a63-9f78-4db8-901d-fd0b2534b421")
+	)
+	(label "GPIO0"
+		(at 81.28 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9ae8e2f6-8f99-464d-a200-50645d1707e6")
 	)
 	(sheet
 		(at 48.26 25.4)

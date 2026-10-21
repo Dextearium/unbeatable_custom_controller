@@ -1797,13 +1797,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/5ca44c3c-b88e-49db-8b9b-a1c7eb7faa11"
 					(reference "J1")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-					)
 				)
 			)
 		)
@@ -1918,13 +1911,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/5ca44c3c-b88e-49db-8b9b-a1c7eb7faa11"
 					(reference "J2")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-					)
 				)
 			)
 		)

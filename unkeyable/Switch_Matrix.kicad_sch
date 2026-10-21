@@ -1617,17 +1617,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D14")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -1732,17 +1721,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D9")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -1847,17 +1825,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D13")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -1962,17 +1929,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D2")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -2053,9 +2009,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW13")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-					)
 				)
 			)
 		)
@@ -2136,17 +2089,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW1")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
-						)
-						(field
-							(name "Value")
-							(value "1")
-						)
-					)
 				)
 			)
 		)
@@ -2227,13 +2169,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW7")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Value")
-							(value "W")
-						)
-					)
 				)
 			)
 		)
@@ -2314,9 +2249,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW15")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-					)
 				)
 			)
 		)
@@ -2397,13 +2329,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW4")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Value")
-							(value "Q")
-						)
-					)
 				)
 			)
 		)
@@ -2508,17 +2433,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D11")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -2599,9 +2513,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW14")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-					)
 				)
 			)
 		)
@@ -2706,17 +2617,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D7")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -2797,9 +2697,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW5")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-					)
 				)
 			)
 		)
@@ -2904,17 +2801,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D15")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -2995,9 +2881,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW10")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-					)
 				)
 			)
 		)
@@ -3102,17 +2985,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D17")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -3217,17 +3089,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D5")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -3308,9 +3169,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW9")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-					)
 				)
 			)
 		)
@@ -3391,13 +3249,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW2")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Value")
-							(value "C")
-						)
-					)
 				)
 			)
 		)
@@ -3478,9 +3329,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW16")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-					)
 				)
 			)
 		)
@@ -3561,9 +3409,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW11")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-					)
 				)
 			)
 		)
@@ -3668,17 +3513,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D6")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -3783,17 +3617,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D3")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -3874,17 +3697,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW6")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
-						)
-						(field
-							(name "Value")
-							(value "J")
-						)
-					)
 				)
 			)
 		)
@@ -3989,17 +3801,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D4")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -4104,17 +3905,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D10")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -4195,13 +3985,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW3")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Value")
-							(value "3")
-						)
-					)
 				)
 			)
 		)
@@ -4306,17 +4089,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D8")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -4421,17 +4193,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D16")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -4512,9 +4273,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW12")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-					)
 				)
 			)
 		)
@@ -4619,17 +4377,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D12")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -4734,17 +4481,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "D1")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
-							(name "Value")
-							(value "D")
-						)
-					)
 				)
 			)
 		)
@@ -4825,9 +4561,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW17")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-					)
 				)
 			)
 		)
@@ -4908,9 +4641,6 @@
 				(path "/56740881-356f-4088-82c8-bd52ff0fe80e/e5ac9387-7100-4664-bc48-3a7e971b4167"
 					(reference "SW8")
 					(unit 1)
-					(variant
-						(name "Adafruit KB2040")
-					)
 				)
 			)
 		)
